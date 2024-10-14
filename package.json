@@ -1,0 +1,8 @@
+{
+  "name": "ts-coding",
+  "type": "module",
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.3",
+    "@types/bun": "^1.1.11"
+  }
+}
